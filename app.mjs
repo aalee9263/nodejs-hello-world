@@ -1,1 +1,1 @@
-console.log("im learing that how to install and how to run nodejs")
+console.log("practcing for node js")
